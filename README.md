@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Gabrielfcs/Gabrielfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="my-projects.svg" width="150px"/>
+<p float="left" style="text-align: center">
+  <a href="https://www.bullcode.com.br" target="_blank">
+    <img alt="Bullcode" src="card-bullcode.png" width="100%" />
+  </a>
+  <a href="https://www.stammapp.com.br" target="_blank">
+    <img alt="Stamm" src="card-stamm.svg" width="49.75%"/>
+  </a>
+  <a href="http://www.seuticket.com.br" target="_blank">
+    <img alt="Seuticket" src="card-seuticket.svg" width="49.75%">
+  </a>
+</p>
